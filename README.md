@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# tesla-clone
+## Tesla Clone
 A simple landing page of Tesla using React, Redux and styled-components 
 =======
 # Getting Started with Create React App and Redux
